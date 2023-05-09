@@ -1,7 +1,6 @@
 
 <img src="https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif" width="1000" height="468" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300F7EF&size=27&duration=6000&vCenter=true&lines=Mobile+Developer..;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 
 <h2> About Me</h2>
 
